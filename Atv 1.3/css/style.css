@@ -1,0 +1,33 @@
+p.um {
+    background-color: red; 
+    border: 5px solid green; 
+    padding: 50px; 
+    text-align:justify;
+}
+p.dois { 
+    border: 1px solid black; 
+    padding: 20px; 
+    text-align:justify;
+}
+div.tres {
+    background-color: violet;
+    border: 1px solid;
+    padding: 30px;
+}
+
+.verde { color: green;
+}
+
+.azul {
+    color: blue;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+h1 {
+   background-color: yellow; 
+   border:10px solid red; 
+   padding: 20px;
+}

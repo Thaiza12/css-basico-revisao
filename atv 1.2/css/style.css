@@ -1,0 +1,30 @@
+h1 {
+    text-align: right;
+    font-weight: 160%; 
+}
+
+h4 {
+    text-align: left;
+    font-weight: 80%; ;
+}
+
+#unico {
+    color:red;
+   }
+.pink{
+      background-color: pink
+}
+.blue {
+      background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.table{
+      margin-left: auto;
+      margin-right: auto;
+      border: solid 1px;
+}
+.span{ 
+    font-weight: bold;
+   }
